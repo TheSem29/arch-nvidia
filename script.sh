@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Конфигурация (измените под свои нужды)
-DISK="/dev/nvme0n1"
+DISK="/dev/sda"
 HOSTNAME="arch-pc"
 USERNAME="user"
 TIMEZONE="Europe/Moscow"
